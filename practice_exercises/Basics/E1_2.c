@@ -1,4 +1,6 @@
 #include <stdio.h>
+/*#include <kirjastonnimi>*/
+
 int main(void) {
 /* Tämä on kommentti */
 printf("Minä tein tämän!\n");
